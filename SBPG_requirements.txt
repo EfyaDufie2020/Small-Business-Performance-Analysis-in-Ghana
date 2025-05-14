@@ -12,8 +12,8 @@ pandas
 numpy  
 scipy  
 xlrd  
-openpyxl  
-xlsxwriter  
+# openpyxl  
+# xlsxwriter  
  
 # Data Visualization
 matplotlib  
@@ -24,7 +24,8 @@ plotly
 statsmodels  
  
 # Machine Learning & Recommendation Systems
-scikit-learn  
+scikit-learn 
+ 
 # lightfm  
 xgboost  
 optuna  
